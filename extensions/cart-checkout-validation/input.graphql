@@ -1,0 +1,9 @@
+query Input {
+  cart {
+    deliveryGroups {
+      deliveryAddress {
+        address1
+      }
+    }
+  }
+}
